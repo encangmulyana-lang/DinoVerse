@@ -1,0 +1,15 @@
+{
+  "name": "DINOVERSE #773",
+  "description": "DINOVERSE \u2014 Stegosaurus (Rare). 3,333 prehistoric giants on BNB Chain. Mint 0.00004 BNB, max 10 per tx.",
+  "image": "https://dinoverse-rho.vercel.app/images/stegosaurus.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Stegosaurus"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

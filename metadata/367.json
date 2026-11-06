@@ -1,0 +1,15 @@
+{
+  "name": "DINOVERSE #367",
+  "description": "DINOVERSE \u2014 Triceratops (Uncommon). 3,333 prehistoric giants on BNB Chain. Mint 0.00004 BNB, max 10 per tx.",
+  "image": "https://dinoverse-rho.vercel.app/images/triceratops.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Triceratops"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ]
+}

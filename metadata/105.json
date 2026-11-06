@@ -1,0 +1,15 @@
+{
+  "name": "DINOVERSE #105",
+  "description": "DINOVERSE \u2014 T-Rex (Epic). 3,333 prehistoric giants on BNB Chain. Mint 0.00004 BNB, max 10 per tx.",
+  "image": "https://dinoverse-rho.vercel.app/images/trex.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "T-Rex"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

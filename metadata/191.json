@@ -1,0 +1,15 @@
+{
+  "name": "DINOVERSE #191",
+  "description": "DINOVERSE \u2014 Pterodactyl (Legendary). 3,333 prehistoric giants on BNB Chain. Mint 0.00004 BNB, max 10 per tx.",
+  "image": "https://dinoverse-rho.vercel.app/images/pterodactyl.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Pterodactyl"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

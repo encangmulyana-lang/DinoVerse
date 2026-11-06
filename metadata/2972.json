@@ -1,0 +1,15 @@
+{
+  "name": "DINOVERSE #2972",
+  "description": "DINOVERSE \u2014 Raptor (Common). 3,333 prehistoric giants on BNB Chain. Mint 0.00004 BNB, max 10 per tx.",
+  "image": "https://dinoverse-rho.vercel.app/images/raptor.svg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Raptor"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
